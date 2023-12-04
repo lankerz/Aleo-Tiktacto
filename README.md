@@ -1,4 +1,4 @@
-<!-- # ⭕ Tic-Tac-Toe -->
+<!-- # ⭕ Lankerz -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
